@@ -1,0 +1,5 @@
+﻿  6.4.cpp
+C:\Users\Roman\Desktop\лаба автоматизація\коди\6.4REC\6.4.cpp(29,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roman\Desktop\лаба автоматизація\коди\6.4REC\6.4.cpp(49,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roman\Desktop\лаба автоматизація\коди\6.4REC\6.4.cpp(67,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  6.4REC.vcxproj -> C:\Users\Roman\Desktop\лаба автоматизація\коди\6.4REC\x64\Debug\6.4REC.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\Desktop\\\u043B\u0430\u0431\u0430 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u044F\\\u043A\u043E\u0434\u0438\\6.4REC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69018D9D-3568-4A8C-89B0-7B26BE0442E4}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Roman\\Desktop\\\u043B\u0430\u0431\u0430 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u044F\\\u043A\u043E\u0434\u0438\\6.4REC\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69018D9D-3568-4A8C-89B0-7B26BE0442E4}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA7AC6-933B-48B8-B9B6-DA103D4DCBF8}|6.4REC.vcxproj|C:\\Users\\Roman\\Desktop\\\u043B\u0430\u0431\u0430 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u044F\\\u043A\u043E\u0434\u0438\\6.4REC\\6.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42BA7AC6-933B-48B8-B9B6-DA103D4DCBF8}|6.4REC.vcxproj|solutionrelative:6.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\Desktop\\\u043B\u0430\u0431\u0430 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u044F\\\u043A\u043E\u0434\u0438\\6.4REC\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Roman\\Desktop\\\u043B\u0430\u0431\u0430 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u044F\\\u043A\u043E\u0434\u0438\\6.4REC\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T14:44:45.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6.4.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\Desktop\\\u043B\u0430\u0431\u0430 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u044F\\\u043A\u043E\u0434\u0438\\6.4REC\\6.4.cpp",
+              "RelativeDocumentMoniker": "6.4.cpp",
+              "ToolTip": "C:\\Users\\Roman\\Desktop\\\u043B\u0430\u0431\u0430 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u044F\\\u043A\u043E\u0434\u0438\\6.4REC\\6.4.cpp",
+              "RelativeToolTip": "6.4.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T13:33:43.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
